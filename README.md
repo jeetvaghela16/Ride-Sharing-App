@@ -29,3 +29,7 @@ This ride-sharing proof-of-concept is a good starting point for students or deve
 In total, the Ride Sharing App illustrates key Android concepts like map rendering, GPS location tracking, permission management, asynchronous Firebase calls, and responsive UI updates. It is well-structured, modular, and readable code ideal for teaching, portfolio projects, or as a starting point for more advanced transportation-related applications.
 
 The project is open source and ready for further enhancement or integration. Fork, customize, or extend this project to create features such as driver notification alerts, payment gateways, ride records, or chat software. This is a wonderful hands-on project to learn real-time app development and how to develop user-focused mobile solutions using current tools and APIs.
+
+# Output
+
+![Image](https://github.com/user-attachments/assets/6d762f09-4156-4563-85af-7ea877aff20f)
